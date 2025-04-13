@@ -3,63 +3,62 @@ Sample Projects on ML
 Projects 1 : Spam Detection - RandomForestClassifier https://www.ibm.com/think/topics/random-forest
 
 <hr></hr>
-Spam Message Detection
-This project is a machine learning application that detects whether a given message is spam or not. It uses a trained model and provides a user interface for predictions.
+Spam Message Detection <br>
+This project is a machine learning application that detects whether a given message is spam or not. It uses a trained model and provides a user interface for predictions. <br>
 
 
-Features
-Spam Detection: Classifies messages as spam or not spam.
-Streamlit Web App: A user-friendly interface for inputting messages and viewing predictions.
-Jupyter Notebook: Includes data preprocessing, feature engineering, and model training steps.
-TensorFlow Integration: Utilized for testing TensorFlow setup and compatibility.
-Installation
-Prerequisites
-Python 3.8, 3.9, or 3.10 (TensorFlow is not compatible with Python 3.13)
-pip (latest version recommended)
-Steps
-Clone the repository:
+Features <br>
+Spam Detection: Classifies messages as spam or not spam. <br>
+Streamlit Web App: A user-friendly interface for inputting messages and viewing predictions. <br>
+Jupyter Notebook: Includes data preprocessing, feature engineering, and model training steps. <br>
+TensorFlow Integration: Utilized for testing TensorFlow setup and compatibility. <br>
+Installation <br>
+Prerequisites <br>
+Python 3.8, 3.9, or 3.10 (TensorFlow is not compatible with Python 3.13) <br>
+pip (latest version recommended) <br>
+Steps <br>
+Clone the repository: <br>
 
 
-git clone <repository-url>
-cd <repository-folder>
-Create a virtual environment:
+git clone [<repository-url>](https://github.com/santoshmanya/machine-learning-samples.git) <br>
+Create a virtual environment: <br>
 
 
-python -m venv venv
-.\venv\Scripts\activate  # On Windows
-Install dependencies:
+python -m venv venv <br>
+.\venv\Scripts\activate  # On Windows <br>
+Install dependencies: <br>
 
 
-pip install -r requirements.txt
-Set the environment variable (optional):
+pip install -r requirements.txt <br>
+Set the environment variable (optional): <br>
 
 
-set TF_ENABLE_ONEDNN_OPTS=0  # On Windows
-Usage
-Running the Streamlit App
-Start the app:
-streamlit run Web/SpamMessageDetection.py
-Open the provided URL in your browser.
-Running TensorFlow Test
-Execute the script to verify TensorFlow installation:
-python Util/TensorflowTest.py
-Jupyter Notebook
-Open the notebook in PyCharm or Jupyter:
-jupyter notebook SpamMessageDetection.ipynb
-Project Structure
-Web/SpamMessageDetection.py: Streamlit app for spam detection.
-SpamMessageDetection.ipynb: Jupyter Notebook for data preprocessing and model training.
-Util/TensorflowTest.py: Script to test TensorFlow installation.
-spam_model.pkl: Pre-trained model for predictions.
-Dependencies
-TensorFlow
-Streamlit
-Scikit-learn
-Pandas
-Matplotlib
-Numpy
-License
-This project is licensed under the MIT License.
+set TF_ENABLE_ONEDNN_OPTS=0  # On Windows <br>
+Usage <br>
+Running the Streamlit App <br>
+Start the app: <br>
+streamlit run Web/SpamMessageDetection.py <br>
+Open the provided URL in your browser. <br>
+Running TensorFlow Test <br>
+Execute the script to verify TensorFlow installation: <br>
+python Util/TensorflowTest.py <br>
+Jupyter Notebook <br>
+Open the notebook in PyCharm or Jupyter: <br>
+jupyter notebook SpamMessageDetection.ipynb <br>
+Project Structure <br>
+Web/SpamMessageDetection.py: Streamlit app for spam detection. <br>
+SpamMessageDetection.ipynb: Jupyter Notebook for data preprocessing and model training. <br>
+Util/TensorflowTest.py: Script to test TensorFlow installation. <br>
+spam_model.pkl: Pre-trained model for predictions. <br>
+Dependencies <br>
+TensorFlow (optional)<br>
+Streamlit <br>
+Scikit-learn <br>
+Pandas <br>
+Matplotlib <br>
+Numpy <br>
+License <br>
+This project is licensed under the MIT License. <br>
 
 
 
