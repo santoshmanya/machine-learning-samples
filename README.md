@@ -6,3 +6,7 @@ Standard steps
 2. Model Building --> Training --> Evaluation --> Results ( UI)
 3. https://towardsdatascience.com/spam-messages-classification-3a7ede4f8ba1/
 4. 
+
+
+Projects
+1. Spam Detection - RandomForestClassifier
