@@ -20,7 +20,7 @@ Steps <br>
 Clone the repository: <br>
 
 
-git clone [<repository-url>](https://github.com/santoshmanya/machine-learning-samples.git) <br>
+git clone https://github.com/santoshmanya/machine-learning-samples.git <br>
 Create a virtual environment: <br>
 
 
