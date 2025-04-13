@@ -22,5 +22,7 @@ Running Tensorflow on Windows Native without GPU. Currently tensor flow does not
 1. Install python 3.11
 2. Install Tensorflow 2.19.0
 3. Test Tensorflow Installaiton and if it gives below error then set the environment variable TF_ENABLE_ONEDNN_OPTS to 0
-4. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
-5. 
+4. ![image](https://github.com/user-attachments/assets/ca1b2f4e-8458-4a3d-8608-e86218f87393)
+
+5. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
+6. 
