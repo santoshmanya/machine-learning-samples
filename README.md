@@ -12,3 +12,15 @@ Standard steps and links
 
 Projects
 1. Spam Detection - RandomForestClassifier https://www.ibm.com/think/topics/random-forest
+
+
+
+
+
+Running Tensorflow on Windows Native without GPU. Currently tensor flow does not support python 3.13
+
+1. Install python 3.11
+2. Install Tensorflow 2.19.0
+3. Test Tensorflow Installaiton and if it gives below error then set the environment variable TF_ENABLE_ONEDNN_OPTS to 0
+4. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
+5. 
