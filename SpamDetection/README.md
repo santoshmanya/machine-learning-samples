@@ -59,6 +59,7 @@ This project is licensed under the MIT License. <br>
 ![WhatsApp Image 2025-04-12 at 23 08 52_02e1312c](https://github.com/user-attachments/assets/0928ccee-b246-4bcf-b4a9-9315dd6c0a30)
 
 
+![WhatsApp Image 2025-04-14 at 18 17 52_60f407ee](https://github.com/user-attachments/assets/98dcceb8-f1be-4b5c-be28-6904ad0e5758)
 
 Running Tensorflow on Windows Native without GPU. Currently tensor flow does not support python 3.13
 
