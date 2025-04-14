@@ -1,8 +1,12 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS # 1. Import CORS
 import pickle
 
 # Initialize Flask app
 app = Flask(__name__)
+CORS(app) # 2. Initialize CORS with your app. This allows all origins by default.
+
+
 
 # Load the pre-trained model
 model = pickle.load(open("spam_model.pkl", "rb"))
