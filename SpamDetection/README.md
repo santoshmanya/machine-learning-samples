@@ -61,6 +61,10 @@ This project is licensed under the MIT License. <br>
 
 ![WhatsApp Image 2025-04-14 at 18 17 52_60f407ee](https://github.com/user-attachments/assets/98dcceb8-f1be-4b5c-be28-6904ad0e5758)
 
+Developed API in flask and called this API using react client.
+![image](https://github.com/user-attachments/assets/9743596e-542c-4cf0-8e29-8293031269a9)
+
+
 Running Tensorflow on Windows Native without GPU. Currently tensor flow does not support python 3.13
 
 1. Install python 3.11
