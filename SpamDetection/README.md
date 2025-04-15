@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
 You will receive a response with the prediction.
 
-
+Some Screenshots
 
 ![WhatsApp Image 2025-04-12 at 23 08 40_8a46268d](https://github.com/user-attachments/assets/0e0c9f5f-9457-4b42-91c1-ae6c5726d5fe)
 ![WhatsApp Image 2025-04-12 at 23 08 52_02e1312c](https://github.com/user-attachments/assets/0928ccee-b246-4bcf-b4a9-9315dd6c0a30)
@@ -147,16 +147,9 @@ You will receive a response with the prediction.
 
 ![WhatsApp Image 2025-04-14 at 18 17 52_60f407ee](https://github.com/user-attachments/assets/98dcceb8-f1be-4b5c-be28-6904ad0e5758)
 
-Developed API in flask and called this API using react client.
 ![image](https://github.com/user-attachments/assets/80122c04-5bac-412a-b39a-4ce3b9740b76)
 
 
-Running Tensorflow on Windows Native without GPU. Currently tensor flow does not support python 3.13
-
-1. Install python 3.11
-2. Install Tensorflow 2.19.0
-3. Test Tensorflow Installaiton and if it gives below error then set the environment variable TF_ENABLE_ONEDNN_OPTS to 0
-4. ![image](https://github.com/user-attachments/assets/ca1b2f4e-8458-4a3d-8608-e86218f87393)
 
 
 
@@ -166,6 +159,3 @@ Building Docker Image and running the app
 ![image](https://github.com/user-attachments/assets/9f9b784d-2aa0-4a44-bdf9-5dfb0ff4417e)
 
 
-6. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
-7. After updating environment viarables, you will see below results when you test tensorflow
-8. ![image](https://github.com/user-attachments/assets/81b02a56-89f2-4147-8fec-128bb815d70a)
