@@ -77,7 +77,7 @@ Running Tensorflow on Windows Native without GPU. Currently tensor flow does not
 Building Docker Image and running the app
 
 
-![image](https://github.com/user-attachments/assets/c09c843e-4337-49a9-98be-5a031b807138)
+![image](https://github.com/user-attachments/assets/9f9b784d-2aa0-4a44-bdf9-5dfb0ff4417e)
 
 
 6. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
