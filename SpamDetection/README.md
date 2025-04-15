@@ -72,6 +72,13 @@ Running Tensorflow on Windows Native without GPU. Currently tensor flow does not
 3. Test Tensorflow Installaiton and if it gives below error then set the environment variable TF_ENABLE_ONEDNN_OPTS to 0
 4. ![image](https://github.com/user-attachments/assets/ca1b2f4e-8458-4a3d-8608-e86218f87393)
 
-5. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
-6. After updating environment viarables, you will see below results when you test tensorflow
-7. ![image](https://github.com/user-attachments/assets/81b02a56-89f2-4147-8fec-128bb815d70a)
+
+
+Building Docker Image
+
+![image](https://github.com/user-attachments/assets/4ab334f0-9625-4957-9b3c-f7617224bbd4)
+
+
+6. ![image](https://github.com/user-attachments/assets/50cd8438-bc52-43d8-a7be-6fee8e9467bc)
+7. After updating environment viarables, you will see below results when you test tensorflow
+8. ![image](https://github.com/user-attachments/assets/81b02a56-89f2-4147-8fec-128bb815d70a)
