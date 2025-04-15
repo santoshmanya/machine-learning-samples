@@ -1,5 +1,5 @@
 <hr></hr>
-Spam Message Detection <br>
+<h1>Spam Message Detection </h1><br>
 This project is a machine learning application that detects whether a given message is spam or not. It uses a trained model and provides a user interface for predictions. <br>
 Here is a step-by-step guide for your project:
 
