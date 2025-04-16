@@ -159,3 +159,6 @@ Building Docker Image and running the app
 ![image](https://github.com/user-attachments/assets/9f9b784d-2aa0-4a44-bdf9-5dfb0ff4417e)
 
 
+Deploying Docker in AWS ECS
+![image](https://github.com/user-attachments/assets/b9f47eaa-cbdc-4d70-8e0c-562f279195d6)
+
