@@ -166,3 +166,5 @@ Deploying Docker in AWS ECS
 
 ![image](https://github.com/user-attachments/assets/5dab466a-0e2f-42de-aefe-045102befc1b)
 
+![image](https://github.com/user-attachments/assets/69d29ce7-fd25-4e0b-8219-30e3699fe5ad)
+
