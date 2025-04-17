@@ -144,11 +144,12 @@ You will receive a response with the prediction.
 ![WhatsApp Image 2025-04-12 at 23 08 40_8a46268d](https://github.com/user-attachments/assets/0e0c9f5f-9457-4b42-91c1-ae6c5726d5fe)
 ![WhatsApp Image 2025-04-12 at 23 08 52_02e1312c](https://github.com/user-attachments/assets/0928ccee-b246-4bcf-b4a9-9315dd6c0a30)
 
-**
+### **Test Using Postman (local)**
+
 ![WhatsApp Image 2025-04-14 at 18 17 52_60f407ee](https://github.com/user-attachments/assets/98dcceb8-f1be-4b5c-be28-6904ad0e5758)
 
-**Testing with ReactJS App
-
+****Testing with ReactJS App
+**
 ![image](https://github.com/user-attachments/assets/80122c04-5bac-412a-b39a-4ce3b9740b76)
 
 
@@ -164,6 +165,8 @@ Deploying Docker in AWS ECS
 ![image](https://github.com/user-attachments/assets/f2551f69-7e28-46fc-a618-6c0b4e88938f)
 
 ![image](https://github.com/user-attachments/assets/5dab466a-0e2f-42de-aefe-045102befc1b)
+
+### **Test Using Postman (AWS)**
 
 ![image](https://github.com/user-attachments/assets/69d29ce7-fd25-4e0b-8219-30e3699fe5ad)
 
@@ -183,6 +186,9 @@ Deploying Docker in GCP
 
 ![image](https://github.com/user-attachments/assets/2382cd89-c818-465b-aa82-b6c5d3a09abf)
 ![image](https://github.com/user-attachments/assets/374189dc-18e6-4279-ae74-6aee8a4770f5)
+
+### **Test Using Postman (GCP)**
+
 ![image](https://github.com/user-attachments/assets/a31602ec-b6c4-41f5-9d11-0726535c1a1b)
 
 Deploying Docker in Azure Container Services
@@ -190,6 +196,8 @@ Deploying Docker in Azure Container Services
 ![image](https://github.com/user-attachments/assets/a8238c3f-7ff7-4755-a8b0-c47533ea1439)
 
 ![image](https://github.com/user-attachments/assets/007b9fd2-03fd-40c2-a3f8-626b036bbf04)
+
+### **Test Using Postman (ACI)**
 
 ![image](https://github.com/user-attachments/assets/8725850f-6729-47bb-a7dc-0b00a4e474f1)
 
