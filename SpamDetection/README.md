@@ -186,4 +186,24 @@ Deploying Docker in GCP
 ![image](https://github.com/user-attachments/assets/374189dc-18e6-4279-ae74-6aee8a4770f5)
 ![image](https://github.com/user-attachments/assets/a31602ec-b6c4-41f5-9d11-0726535c1a1b)
 
+Deploying Docker in Azure Container Services
 
+![image](https://github.com/user-attachments/assets/a8238c3f-7ff7-4755-a8b0-c47533ea1439)
+
+![image](https://github.com/user-attachments/assets/007b9fd2-03fd-40c2-a3f8-626b036bbf04)
+
+![image](https://github.com/user-attachments/assets/d83b6323-1b00-49ec-b5b7-6781c986e33e)
+![image](https://github.com/user-attachments/assets/4cdfb47f-6f3d-4ae3-a124-ed28fa9c72a3)
+![image](https://github.com/user-attachments/assets/e0c19f58-2e70-4e97-b404-1e00aee51417)
+![image](https://github.com/user-attachments/assets/a40b6568-215b-421e-bff9-a8eacf24caf9)
+![image](https://github.com/user-attachments/assets/fea8b2ee-d720-4029-9a16-1790ab8c362e)
+
+
+
+new
+
+![image](https://github.com/user-attachments/assets/8725850f-6729-47bb-a7dc-0b00a4e474f1)
+
+![image](https://github.com/user-attachments/assets/3f1d0fd5-e788-4e8e-bc5a-8852c686e6f9)
+
+![image](https://github.com/user-attachments/assets/53775647-247b-41ba-95f0-c9682211986d)
