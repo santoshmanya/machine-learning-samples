@@ -139,18 +139,16 @@ if __name__ == '__main__':
 
 You will receive a response with the prediction.
 
-Testing with Streamlit
-
+**Testing with Streamlit
+**
 ![WhatsApp Image 2025-04-12 at 23 08 40_8a46268d](https://github.com/user-attachments/assets/0e0c9f5f-9457-4b42-91c1-ae6c5726d5fe)
 ![WhatsApp Image 2025-04-12 at 23 08 52_02e1312c](https://github.com/user-attachments/assets/0928ccee-b246-4bcf-b4a9-9315dd6c0a30)
 
-
+**Testing with ReactJS App
+**
 ![WhatsApp Image 2025-04-14 at 18 17 52_60f407ee](https://github.com/user-attachments/assets/98dcceb8-f1be-4b5c-be28-6904ad0e5758)
 
 ![image](https://github.com/user-attachments/assets/80122c04-5bac-412a-b39a-4ce3b9740b76)
-
-
-
 
 
 Building Docker Image and running the app
