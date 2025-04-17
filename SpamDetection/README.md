@@ -170,7 +170,14 @@ Deploying Docker in AWS ECS
 
 Deploying Docker in GCP
 
-
+    gcloud run deploy spam-detection-service \
+        --image=docker.io/xxxxxxxxx/spam-detector-ml-app:latest \
+        --platform=managed \
+        --region=us-central1 \
+        --port=8080 \
+        --allow-unauthenticated \
+        --project=machine-learning-457117
+    
     
 
 ![image](https://github.com/user-attachments/assets/d0a3ee3a-8b93-4d45-aa94-f6cf5df5fba8)
