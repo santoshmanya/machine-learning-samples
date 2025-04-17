@@ -174,3 +174,9 @@ Deploying Docker in GCP
     
 
 ![image](https://github.com/user-attachments/assets/d0a3ee3a-8b93-4d45-aa94-f6cf5df5fba8)
+
+![image](https://github.com/user-attachments/assets/2382cd89-c818-465b-aa82-b6c5d3a09abf)
+![image](https://github.com/user-attachments/assets/374189dc-18e6-4279-ae74-6aee8a4770f5)
+![image](https://github.com/user-attachments/assets/a31602ec-b6c4-41f5-9d11-0726535c1a1b)
+
+
