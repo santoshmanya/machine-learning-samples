@@ -168,3 +168,9 @@ Deploying Docker in AWS ECS
 
 ![image](https://github.com/user-attachments/assets/69d29ce7-fd25-4e0b-8219-30e3699fe5ad)
 
+Deploying Docker in GCP
+
+
+    
+
+![image](https://github.com/user-attachments/assets/d0a3ee3a-8b93-4d45-aa94-f6cf5df5fba8)
