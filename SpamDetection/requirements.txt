@@ -1,0 +1,10 @@
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.6.1
+matplotlib==3.6.2
+seaborn==0.12.1
+jupyter==1.0.0
+gunicorn==20.1.0
+Flask==2.2.3
+Werkzeug==2.2.3
+flask_cors==3.0.10
